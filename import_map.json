@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "grammy": "https://deno.land/x/grammy@v1.20.3/mod.ts",
+    "grammy_runner": "https://deno.land/x/grammy_runner@v2.0.3/mod.ts",
+    "grammy_storages": "https://deno.land/x/grammy_storages@v2.3.1/free/src/mod.ts",
+    "oak": "https://deno.land/x/oak@v12.6.1/mod.ts"
+  }
+}
