@@ -8,7 +8,7 @@ const BOT_TOKEN = Deno.env.get('BOT_TOKEN') || '7903246802:AAFBD6P12ZmGZPvD5vs2f
 const API_ID = parseInt(Deno.env.get('API_ID') || '24785831');
 const API_HASH = Deno.env.get('API_HASH') || '81b87c7c85bf0c4ca15ca94dcea3fb95';
 const OWNER_ID = parseInt(Deno.env.get('OWNER_ID') || '1273841502');
-const DENO_DEPLOY_URL = Deno.env.get('DENO_DEPLOY_URL') || 'https://4-0-4-gcpbydeno';
+const DENO_DEPLOY_URL = Deno.env.get('DENO_DEPLOY_URL') || 'https://4-0-4-gcpbydeno-27.deno.dev';
 
 if (!BOT_TOKEN || !API_ID || !API_HASH || !OWNER_ID) {
   throw new Error("Missing required environment variables");
