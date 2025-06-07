@@ -1,7 +1,0 @@
-{
-  "tasks": {
-    "start": "deno run --allow-net --allow-env --allow-read --allow-write main.ts",
-    "deploy": "deployctl deploy --project=your-project-name --prod deploy.ts"
-  },
-  "importMap": "import_map.json"
-}
