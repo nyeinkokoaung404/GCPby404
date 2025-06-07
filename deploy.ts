@@ -1,4 +1,3 @@
-// deploy.sh
 #!/bin/bash
 
 # --- Playwright Installation Script for Linux ---
